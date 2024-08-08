@@ -1,0 +1,1 @@
+print("Uppercase string: ", input("Enter a string: ").upper())
